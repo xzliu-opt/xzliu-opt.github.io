@@ -21,7 +21,7 @@ repository               : "xzliu-opt.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio.png"
+  avatar           : "bio.jpg"
   name             : "Xiaozhi Liu (刘晓志)"
   pronouns         : # example: "she/her"  
   bio              : "PhD student, Applied Mathematics"
