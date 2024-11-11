@@ -30,6 +30,6 @@ Conference Talks
 
 Teaching Assistant
 ======
-- Modern optimization methods, 2023, Fall, Beihang University
+- Modern Optimization Methods, 2023, Fall, Beihang University
 - Optimization Theory and Methods, 2024, Fall, Beihang University
 
