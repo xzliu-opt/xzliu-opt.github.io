@@ -22,6 +22,7 @@ Recent Publications
 ======
 - **X. Liu**, Y. Xia, "A Unified Algorithmic Framework for Dynamic Compressive Sensing" [[arxiv 2023]](https://arxiv.org/abs/2310.07202)
 - **X. Liu**, Y. Xia, "Cubic NK-SVD: An Algorithm for Designing Parametric Dictionary in Frequency Estimation" [[arxiv 2024]](https://arxiv.org/abs/2408.03708) [[code]](https://github.com/xzliu-opt/Cubic-NK-SVD)
+- **X. Liu**, J. Wei, Y. Xia, "Revisiting Atomic Norm Minimization: A Sequential Approach for Atom Identification and Refinement" [[arxiv 2024]](https://arxiv.org/abs/2411.08459)
 
 Conference Talks
 ======
