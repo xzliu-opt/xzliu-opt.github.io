@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I received the B.S. degree in Information and Computing Science from [Northwestern Polytechnical University](https://www.nwpu.edu.cn/), Xi'an, China, in 2022, advised by Prof. [Jianchao Bai](https://www.scholat.com/bjc1987).
-At present, I'm pursuing a Ph.D degree in Applied Mathematics at [Beihang University](https://www.buaa.edu.cn/), advised by Prof. [Yong Xia](https://math.buaa.edu.cn/szdw1/azcck/js/xy.htm).
+At present, I'm pursuing a Ph.D degree in Applied Mathematics at [Beihang University](https://www.buaa.edu.cn/), Beijing, China, advised by Prof. [Yong Xia](https://math.buaa.edu.cn/szdw1/azcck/js/xy.htm).
 
 Research
 ======
