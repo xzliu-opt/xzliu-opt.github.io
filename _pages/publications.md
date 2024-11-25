@@ -16,7 +16,7 @@ Here is a full list of my publications:
  <b>X. Liu</b>, Y. Xia. <a href="https://arxiv.org/abs/2310.07202">[arxiv 2023] </a>
 </p></li>
 <li><p> Cubic NK-SVD: An Algorithm for Designing Parametric Dictionary in Frequency Estimation. <br />
- <b>X. Liu</b>, Y. Xia. <a href="https://arxiv.org/abs/2408.03708">[arXiv 2024]  </a>
+ <b>X. Liu</b>, Y. Xia. <a href="https://arxiv.org/abs/2408.03708">[arXiv 2024]  </a> <a href="https://github.com/xzliu-opt/Cubic-NK-SVD">[code]  </a>
  </p></li>
 <li><p> Revisiting Atomic Norm Minimization: A Sequential Approach for Atom Identification and Refinement. <br />
  <b>X. Liu*</b>, J. Wei*, Y. Xia. <a href="https://arxiv.org/abs/2411.08459">[arXiv 2024]  </a>
