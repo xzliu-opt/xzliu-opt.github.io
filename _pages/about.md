@@ -45,3 +45,8 @@ Teaching Assistant
 - Modern Optimization Methods, 2023, Fall, Beihang University
 - Optimization Theory and Methods, 2024, Fall, Beihang University
 
+CV
+======
+- [cv](https://xzliu-opt.github.io/files/cv/cv_XiaozhiLiu.pdf)
+
+
