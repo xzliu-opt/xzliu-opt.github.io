@@ -21,6 +21,9 @@ Here is a full list of my publications:
 <li><p> Revisiting Atomic Norm Minimization: A Sequential Approach for Atom Identification and Refinement. <br />
  <b>X. Liu*</b>, J. Wei*, Y. Xia. <a href="https://arxiv.org/abs/2411.08459">[arXiv 2024]  </a>
  </p></li>
+<li><p> Difference vs. Quotient: A Novel Algorithm for Dominant Eigenvalue Problem. <br />
+ <b>X. Liu</b>, Y. Xia. <a href="https://arxiv.org/abs/2501.15131">[arXiv 2025]  </a>
+ </p></li>
 </font>
 </ul>
 
