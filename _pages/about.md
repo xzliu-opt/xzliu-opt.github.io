@@ -23,8 +23,8 @@ Recent Publications
 
 <ul>
 <font size="3">
-<li><p> A Unified Algorithmic Framework for Dynamic Compressive Sensing. Signal Processing, 232 (2025), 109926. <br />
- <b>X. Liu</b>, Y. Xia. <a href="https://doi.org/10.1016/j.sigpro.2025.109926">[DOI] </a> <a href="https://github.com/xzliu-opt/PLAY-CS">[code]  </a>
+<li><p> A Unified Algorithmic Framework for Dynamic Compressive Sensing. <br />
+ <b>X. Liu</b>, Y. Xia. Signal Processing, 232 (2025), 109926. <a href="https://doi.org/10.1016/j.sigpro.2025.109926">[DOI] </a> <a href="https://github.com/xzliu-opt/PLAY-CS">[code]  </a>
 </p></li>
 <li><p> Cubic NK-SVD: An Algorithm for Designing Parametric Dictionary in Frequency Estimation. <br />
  <b>X. Liu</b>, Y. Xia. <a href="https://arxiv.org/abs/2408.03708">[arXiv 2024]  </a> <a href="https://github.com/xzliu-opt/Cubic-NK-SVD">[code]  </a>
