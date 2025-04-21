@@ -45,7 +45,7 @@ Conference Talks
 
 Academic Activities
 ======
-- 4/2025 - now, Reviewer of [Minimally Invasive Therapy & Allied Technologies](https://www.tandfonline.com/journals/imit20).
+- April, 2025 - now, Reviewer of [Minimally Invasive Therapy & Allied Technologies](https://www.tandfonline.com/journals/imit20).
 
 Teaching Assistant
 ======
