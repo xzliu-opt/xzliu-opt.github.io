@@ -43,6 +43,10 @@ Conference Talks
 - October 12-15, 2023, Report on “A Unified Algorithmic Framework for Dynamic Compressive Sensing”. The 21st Annual Meeting of CSIAM, FM04, Kunming, Yunnan. [[slides]](https://xzliu-opt.github.io/files/slides/slides_CSIAM_2023.pdf)
 - September 13-15, 2024, Report on “Cubic NK-SVD: An Algorithm for Designing Parametric Dictionary in Frequency Estimation”. The 1st ORSC conference on Data Science and Operations Research Intelligence, Beijing. [[slides]](https://xzliu-opt.github.io/files/slides/slides_ORSC_2024.pdf)
 
+Academic Activities
+======
+- 4/2025 - now, Reviewer of [Minimally Invasive Therapy & Allied Technologies](https://www.tandfonline.com/journals/imit20).
+
 Teaching Assistant
 ======
 - Modern Optimization Methods, 2023, Fall, Beihang University
