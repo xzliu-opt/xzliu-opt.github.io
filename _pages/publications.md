@@ -9,7 +9,7 @@ Here is a full list of my publications:
 
  \* denotes equal contributions.
 
-<h2> Preprints </h2>
+<h2> Journals </h2>
 <ul>
 <font size="3">
 <li><p> A Unified Algorithmic Framework for Dynamic Compressive Sensing. <br />
@@ -18,6 +18,12 @@ Here is a full list of my publications:
 <li><p> Cubic NK-SVD: An Algorithm for Designing Parametric Dictionary in Frequency Estimation. <br />
  <b>X. Liu</b>, Y. Xia. Signal Processing, 235 (2025), 110029. <a href="https://doi.org/10.1016/j.sigpro.2025.110029">[DOI] </a> <a href="https://github.com/xzliu-opt/Cubic-NK-SVD">[code]  </a>
  </p></li>
+</font>
+</ul>
+
+<h2> Preprints </h2>
+<ul>
+<font size="3">
 <li><p> Revisiting Atomic Norm Minimization: A Sequential Approach for Atom Identification and Refinement. <br />
  <b>X. Liu*</b>, J. Wei*, Y. Xia. <a href="https://arxiv.org/abs/2411.08459">[arXiv 2024]  </a>
  </p></li>
