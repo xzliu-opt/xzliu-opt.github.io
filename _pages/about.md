@@ -38,6 +38,11 @@ Recent Publications
 </font>
 </ul>
 
+Work Experience
+======
+- July 2, 2025 - Augest 31, 2025, Research Assistant, Hong Kong Baptist University, supervised by [Prof. Michael K. Ng](https://www.math.hkbu.edu.hk/~mng/) (SIAM Fellow).
+
+
 Conference Talks
 ======
 - October 12-15, 2023, Report on “A Unified Algorithmic Framework for Dynamic Compressive Sensing”. The 21st Annual Meeting of CSIAM, FM04, Kunming, Yunnan. [[slides]](https://xzliu-opt.github.io/files/slides/slides_CSIAM_2023.pdf)
