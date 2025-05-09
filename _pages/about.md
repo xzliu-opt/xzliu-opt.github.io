@@ -40,7 +40,7 @@ Recent Publications
 
 Work Experience
 ======
-- July 2, 2025 - Augest 31, 2025, Research Assistant, Hong Kong Baptist University, supervised by Prof. [Michael K. Ng](https://www.math.hkbu.edu.hk/~mng/) (SIAM Fellow).
+- July 2, 2025 - Augest 31, 2025, Research Assistant, [Hong Kong Baptist University](https://www.hkbu.edu.hk/en.html), Hong Kong, China, supervised by Prof. [Michael K. Ng](https://www.math.hkbu.edu.hk/~mng/) (SIAM Fellow).
 
 
 Conference Talks
