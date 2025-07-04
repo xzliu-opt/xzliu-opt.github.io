@@ -28,19 +28,22 @@ Recent Publications
 </p></li>
 <li><p> Cubic NK-SVD: An Algorithm for Designing Parametric Dictionary in Frequency Estimation. <br />
  <b>X. Liu</b>, Y. Xia. Signal Processing, 235 (2025), 110029. <a href="https://doi.org/10.1016/j.sigpro.2025.110029">[DOI] </a> <a href="https://github.com/xzliu-opt/Cubic-NK-SVD">[code]  </a>
- </p></li>
+</p></li>
+<li><p> Split-Merge: A Difference-based Approach for Dominant Eigenvalue Problem. <br />
+ <b>X. Liu</b>, Y. Xia. <a href="https://arxiv.org/abs/2501.15131">[arXiv 2025]  </a>
+</p></li>
+<li><p> Split-Merge Revisited: A Scalable Approach to Generalized Eigenvalue Problems. <br />
+ <b>X. Liu</b>, Y. Xia. <a href="https://arxiv.org/abs/2501.15131">[arXiv 2025]  </a>
+</p></li>
 <li><p> Revisiting Atomic Norm Minimization: A Sequential Approach for Atom Identification and Refinement. <br />
  <b>X. Liu*</b>, J. Wei*, Y. Xia. <a href="https://arxiv.org/abs/2411.08459">[arXiv 2024] </a>
- </p></li>
-<li><p> Difference vs. Quotient: A Novel Algorithm for Dominant Eigenvalue Problem. <br />
- <b>X. Liu</b>, Y. Xia. <a href="https://arxiv.org/abs/2501.15131">[arXiv 2025]  </a>
- </p></li>
+</p></li>
 </font>
 </ul>
 
 Work Experience
 ======
-- July 2, 2025 - Augest 31, 2025, Research Assistant, [Hong Kong Baptist University](https://www.hkbu.edu.hk/en.html), Hong Kong, China, supervised by Prof. [Michael K. Ng](https://www.math.hkbu.edu.hk/~mng/) (SIAM Fellow).
+- Augest 1, 2025 - Augest 31, 2025, Research Assistant, [Hong Kong Baptist University](https://www.hkbu.edu.hk/en.html), Hong Kong, China, supervised by Prof. [Michael K. Ng](https://www.math.hkbu.edu.hk/~mng/) (SIAM Fellow).
 
 
 Conference Talks
