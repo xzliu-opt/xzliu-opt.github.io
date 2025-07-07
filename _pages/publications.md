@@ -28,7 +28,7 @@ Here is a full list of my publications:
  <b>X. Liu</b>, Y. Xia. <a href="https://arxiv.org/abs/2501.15131">[arXiv 2025]  </a>
 </p></li>
 <li><p> Split-Merge Revisited: A Scalable Approach to Generalized Eigenvalue Problems. <br />
- <b>X. Liu</b>, Y. Xia. <a href="https://arxiv.org/abs/2501.15131">[arXiv 2025]  </a>
+ <b>X. Liu</b>, Y. Xia. <a href="https://arxiv.org/abs/2507.02389">[arXiv 2025]  </a>
 </p></li>
 <li><p> Revisiting Atomic Norm Minimization: A Sequential Approach for Atom Identification and Refinement. <br />
  <b>X. Liu*</b>, J. Wei*, Y. Xia. <a href="https://arxiv.org/abs/2411.08459">[arXiv 2024]  </a>
