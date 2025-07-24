@@ -54,6 +54,7 @@ Conference Talks
 Academic Activities
 ======
 - April, 2025 - now, Reviewer of [Minimally Invasive Therapy & Allied Technologies](https://www.tandfonline.com/journals/imit20).
+- July, 2025 - now, Reviewer of [Renewable Energy and Power Quality Journal](https://repqj.com/index.php/repqj/index).
 
 Teaching Assistant
 ======
