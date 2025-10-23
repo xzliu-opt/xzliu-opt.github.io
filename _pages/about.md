@@ -35,6 +35,11 @@ Teaching Assistant
 - Modern Optimization Methods, Fall 2023, Beihang University
 - Optimization Theory and Methods, Fall 2024, Beihang University
 
+Honors & Awards
+======
+- National Scholarship for Doctoral Students (**Top 0.2%**, Ministry of Education of China), 2025
+- National Scholarship for Undergraduate Students (**Top 0.2%**, Ministry of Education of China), 2021
+
 CV
 ======
 - [Download CV](https://xzliu-opt.github.io/files/cv/cv_XiaozhiLiu.pdf)
