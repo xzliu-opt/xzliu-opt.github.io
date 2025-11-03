@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 - I received my B.S. degree in [School of Mathematics and Statistics](https://math.nwpu.edu.cn/) from [Northwestern Polytechnical University](https://www.nwpu.edu.cn/), Xi'an, China, in 2022, advised by Prof. [Jianchao Bai](https://www.scholat.com/bjc1987).
-- I am currently pursuing a Ph.D. degree in the [School of Mathematical Sciences](https://math.buaa.edu.cn/) and the [Shen Yuan Honors College](https://hc.buaa.edu.cn/) at [Beihang University](https://www.buaa.edu.cn/), Beijing, China, under the supervision of Prof. [Yong Xia](https://math.buaa.edu.cn/szdw1/azcck/js/xy.htm).
+- I am currently pursuing a Ph.D. degree in the [School of Mathematical Sciences](https://math.buaa.edu.cn/) and the [Shen Yuan Honors College](https://hc.buaa.edu.cn/) at [Beihang University](https://www.buaa.edu.cn/), Beijing, China, under the supervision of Prof. [Yong Xia](https://scholar.google.com/citations?user=7_g-MDYAAAAJ&hl=zh-CN).
 - I am also a visiting Ph.D. student at [INMA/ICTEAM, UCLouvain](https://www.uclouvain.be/en/research-institutes/icteam/inma), Belgium, supported by the [China Scholarship Council](https://www.chinesescholarshipcouncil.com/), for a one-year research visit (Oct. 2025 – Oct. 2026), advised by Prof. [Geovani N. Grapiglia](https://scholar.google.com/citations?hl=pt-BR&user=PwH5lDEAAAAJ&view_op=list_works&sortby=pubdate).
 
 Research
