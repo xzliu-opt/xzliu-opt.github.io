@@ -32,10 +32,10 @@ Here is a full list of my publications:
  <b>X. Liu</b>, Y. Xia. <a href="https://arxiv.org/abs/2511.15254">[arXiv 2025]  </a>
 </p></li>
  <li><p> Split-Merge Revisited: A Scalable Approach to Generalized Eigenvalue Problems. <br />
- <b>X. Liu</b>, Y. Xia. <a href="https://arxiv.org/abs/2507.02389">[arXiv 2025]  </a>
+ <b>X. Liu</b>, Y. Xia. <a href="https://arxiv.org/abs/2507.02389">[arXiv 2025]  </a> <a href="https://github.com/xzliu-opt/SplitMerge">[code]  </a>
 </p></li>
 <li><p> Split-Merge: A Difference-based Approach for Dominant Eigenvalue Problem. <br />
- <b>X. Liu</b>, Y. Xia. <a href="https://arxiv.org/abs/2501.15131">[arXiv 2025]  </a>
+ <b>X. Liu</b>, Y. Xia. <a href="https://arxiv.org/abs/2501.15131">[arXiv 2025]  </a> <a href="https://github.com/xzliu-opt/SplitMerge">[code]  </a>
 </p></li>
 </font>
 </ul>
