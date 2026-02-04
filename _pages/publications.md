@@ -21,7 +21,7 @@ Here is a full list of my publications:
 <ul>
 <font size="3">
 <li><p> Revisiting Atomic Norm Minimization: A Sequential Approach for Atom Identification and Refinement. <br />
- <b>X. Liu*</b>, J. Wei*, Y. Xia. ICASSP 2026. <a href="https://arxiv.org/abs/2411.08459">[arXiv]  </a>
+ <b>X. Liu*</b>, J. Wei*, Y. Xia. Accepted to ICASSP 2026. <a href="https://arxiv.org/abs/2411.08459">[arXiv]  </a>
 </p></li>
 </font>
 </ul>
