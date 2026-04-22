@@ -20,8 +20,8 @@ Here is a full list of my publications:
 <h2> Conferences </h2>
 <ul>
 <font size="3">
-<li><p> Revisiting Atomic Norm Minimization: A Sequential Approach for Atom Identification and Refinement. <br />
- <b>X. Liu*</b>, J. Wei*, Y. Xia. Accepted to ICASSP 2026 (Oral). <a href="https://arxiv.org/abs/2411.08459">[arXiv]  </a>
+<li><p> Atomic Norm Minimization Revisited: Progressive Atom Identification And Refinement. <br />
+ <b>X. Liu*</b>, J. Wei*, Y. Xia. ICASSP 2026 (Oral). <a href="https://ieeexplore.ieee.org/document/11460658">[DOI]  </a>
 </p></li>
 </font>
 </ul>
